@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: clj-http:clj-http:3.6.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/clj-http/clj-http/jars/clj-http-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

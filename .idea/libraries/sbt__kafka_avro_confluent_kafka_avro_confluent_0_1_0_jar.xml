@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: kafka-avro-confluent:kafka-avro-confluent:0.1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/kafka-avro-confluent/kafka-avro-confluent/jars/kafka-avro-confluent-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: slingshot:slingshot:0.12.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/slingshot/slingshot/jars/slingshot-0.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
